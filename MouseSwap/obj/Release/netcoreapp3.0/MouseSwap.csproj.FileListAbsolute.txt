@@ -1,0 +1,11 @@
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.exe
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.deps.json
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.runtimeconfig.json
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.runtimeconfig.dev.json
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.dll
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\bin\Release\netcoreapp3.0\MouseSwap.pdb
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\obj\Release\netcoreapp3.0\MouseSwap.csprojAssemblyReference.cache
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\obj\Release\netcoreapp3.0\MouseSwap.AssemblyInfoInputs.cache
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\obj\Release\netcoreapp3.0\MouseSwap.AssemblyInfo.cs
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\obj\Release\netcoreapp3.0\MouseSwap.dll
+C:\Users\maciej_kawecki\source\repos\MouseSwap\MouseSwap\obj\Release\netcoreapp3.0\MouseSwap.pdb
